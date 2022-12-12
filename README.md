@@ -11,3 +11,7 @@ Note that all of this data is posed against a white background.
 Each image is 300×300 pixels in 24-bit color
 
 License
+# Results 
+![](https://github.com/Abdul-Rehman-Astro/Rock-Paper-Scissor-Classification/blob/main/2.png)
+![](https://github.com/Abdul-Rehman-Astro/Rock-Paper-Scissor-Classification/blob/main/1.png)
+
